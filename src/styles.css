@@ -80,6 +80,7 @@ body {
 .status {
   margin-bottom: 10px;
 }
+
 .game {
   display: flex;
   flex-direction: row;
@@ -87,4 +88,12 @@ body {
 
 .game-info {
   margin-left: 20px;
+}
+
+.highlight {
+  color: #32d700;
+}
+
+.inline-text{
+  display:inline;
 }
